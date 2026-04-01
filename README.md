@@ -1,8 +1,8 @@
 # 📊 Power BI Portfolio
 
-Hi, I'm Aksha — a Data & Business Analyst with a background in financial services,
-including post-trade regulatory reporting (MiFID II) and cross-functional 
-data quality analysis.
+Hi, I'm Akshatha, a Data Analyst with an engineering background
+and hands-on experience in financial services, including post-trade
+regulatory reporting (MiFID II) and cross-functional data quality analysis.
 
 This portfolio contains Power BI projects built from real-world experience,
 using anonymized or synthetic datasets.
