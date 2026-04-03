@@ -36,10 +36,10 @@ monitors reporting quality and flags issues for investigation.
 Synthetic dataset of 500 trades generated for portfolio purposes.
 No real or confidential data is used.
 
-📁 [Download dataset](./data/synthetic_trades.csv)
+ [Download dataset](./data/synthetic_trades.csv)
 
 ## Screenshots
-![Overview](./screenshots/01-overview.png)
-![Rejection Analysis](./screenshots/02-rejection-analysis.png)
-![Venue & Instrument](./screenshots/03-venue-instrument.png)
-![Timeline](./screenshots/04-timeline.png)
+![Overview](./01-overview.png)
+![Rejection Analysis](./02-rejection-analysis.png)
+![Venue & Instrument](./03-venue-instrument.png)
+![Timeline](./04-timeline.png)
