@@ -21,7 +21,7 @@ reporting periods.
 ### 2. [Data Quality Monitoring Dashboard](./02-data-quality-monitoring/)
 > Data governance | Completeness & accuracy tracking | Anomaly detection
 
-A reusable data quality framework visualized in Power BI — tracking nulls,
+A reusable data quality framework visualized in Power BI - tracking nulls,
 duplicates, volume anomalies, and trend deviations over time.
 
 **Tools:** Power BI · DAX · Power Query  
